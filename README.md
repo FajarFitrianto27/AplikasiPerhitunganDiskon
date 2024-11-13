@@ -1,6 +1,9 @@
 # AplikasiPerhitunganDiskon
  Latihan 3 - (Muhammad Fajar Fitrianto_2210010748)
-Berikut adalah `README.md` yang mencakup penjelasan aplikasi dan kode sumbernya:
+
+ Kelas: 5B NonReg Banjarmasin
+ 
+Berikut adalah `README.md` yang mencakup penjelasan aplikasi dan kode sumbernya
 
 ---
 
@@ -134,4 +137,4 @@ Proyek ini dibuat untuk tujuan pembelajaran dan bebas digunakan.
 
 --- 
 
-Anda dapat menyalin konten ini ke file `README.md` proyek Anda. Jika perlu bantuan lebih lanjut, beri tahu saya!
+
