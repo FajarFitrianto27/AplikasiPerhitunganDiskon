@@ -1,5 +1,5 @@
 # AplikasiPerhitunganDiskon
- Latihan 3 - (Muhammad Fajar Fitrianto_2210010748)
+ Tugas  3 - (Muhammad Fajar Fitrianto_2210010748)
 
  Kelas: 5B NonReg Banjarmasin
  
